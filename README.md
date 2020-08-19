@@ -7,9 +7,9 @@ View idapython docs in the [dash](https://kapeli.com/dash)/[zeal](https://github
 ## Dash/Zeal Feeds
 
 To use, you can add the following feeds in Dash/Zeal:
-- Fri Oct 11 15:05:11 2019: `https://raw.githubusercontent.com/ilyakava/dash-docset-idapython/master/....xml`
+- Fri Oct 11 15:05:11 2019: `https://raw.githubusercontent.com/ilyakava/dash-docset-idapython/master/idapython-10.11.19.xml`
 
-Or download archived docsets as releases [here](https://github.com/ilyakava/dash-docset-idapython/releases).
+Or download archived docsets as releases [here](https://github.com/ilyakava/dash-docset-idapython/releases) and use the local method below.
 
 ## Steps to generate the docset
 
