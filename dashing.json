@@ -1,0 +1,15 @@
+{
+    "name": "Idapython",
+    "package": "idapython",
+    "index":"index.html",
+    "externalURL": "https://www.hex-rays.com/products/ida/support",
+    "selectors": {
+        "h1.epydoc-module": "Module",
+        "h1.epydoc-class": "Class",
+        "h3.epydoc .sig": "Function"
+    },
+    "ignore": [
+    ],
+    "icon32x32": "icon@2x.png",
+    "icon16x16": "icon.png"
+}
